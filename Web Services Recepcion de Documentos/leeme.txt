@@ -1,0 +1,8 @@
+Servicio Web para recepcion de Facturación en ambiente de Operación:
+https://facturaelectronica.dian.gov.co/operacion/B2BIntegrationEngine/FacturaElectronica/facturaElectronica.wsdl 
+
+Servicio Web para recepcion de Facturación en ambiente de Habilitación:
+https://facturaelectronica.dian.gov.co/habilitacion/B2BIntegrationEngine/FacturaElectronica/facturaElectronica.wsdl 
+
+Anexo Técnico 005. Servicio de Recepcion de Facturas Electronicas V2.
+https://www.dian.gov.co/fizcalizacioncontrol/herramienconsulta/FacturaElectronica/Factura%20Electrnica/Anexo%20Tecnico%20005%20Servicio%20de%20Recepcion%20de%20Facturas%20Electronicas%20V2.pdf
