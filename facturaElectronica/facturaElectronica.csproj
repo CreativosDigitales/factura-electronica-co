@@ -50,6 +50,7 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Reference.svcmap</DependentUpon>
     </Compile>
+    <Compile Include="FirmaDIAN.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ServicioDIANHTTP.cs" />
     <Compile Include="ServicioDIAN.cs" />
